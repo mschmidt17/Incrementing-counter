@@ -1,4 +1,4 @@
-### Dia 15: incrementing-counter
+### Dia 15: Incrementing-counter
 
 Se trata de un proyecto simple para practicar React, Javascript, HTML y CSS.
 
